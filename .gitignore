@@ -1,0 +1,14 @@
+.vercel
+.env
+node_modules
+*.lock
+.vscode/
+.idea/
+coverage
+vercel_token
+
+# IDE
+.vscode
+*.code-workspace
+
+.vercel
